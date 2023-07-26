@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+Flask-DebugToolbar
+ipython
+psycopg2-binary
+sqlalchemy
